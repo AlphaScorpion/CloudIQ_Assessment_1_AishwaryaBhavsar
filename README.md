@@ -20,11 +20,15 @@
 <img src = "images/Route Table.png"><br>
 
 <h1>Terraform Workflow Steps</h1><br>
-
 **Step 1: _terraform init_**<br>
-
+<img src = "images/terraform init.png">
 **Step 2: _terraform validate_**<br>
+<img src = "images/terraform validate.png">
 **Step 3: _terraform plan_**<br>
-**Step 4: _terraform deploy_**<br>
+<img src = "images/terraform plan.png">
+**Step 4: _terraform apply_**<br>
+<img src = "images/terraform apply.png"><br>
+<img src = "images/plan and apply.png">
+
 **Step 5: _terraform destroy_**<br>
 
