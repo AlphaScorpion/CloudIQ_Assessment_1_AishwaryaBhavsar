@@ -2,7 +2,7 @@
 1. Write an exercise in Terraform to create the below resources in AWS.
 
 <h1>Project Structure</h1><br>
-![](images/tree.png)
+<img src = "images/tree.png">
 
 
 <h1>VPC Components</h1><br>
