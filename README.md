@@ -20,6 +20,7 @@
 <img src = "images/Route Table.png"><br>
 
 <h1>Terraform Workflow Steps</h1><br>
+
 **Step 1: _terraform init_**<br>
 <img src = "images/terraform init.png">
 **Step 2: _terraform validate_**<br>
