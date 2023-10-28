@@ -25,12 +25,15 @@
 * Initializes terraform environment and plugins<br>
 * A hidden folder called _.terraform_ will be generated, it contains all the plugins for your platform<br>
 <img src = "images/terraform init.png">
+
 **Step 2: _terraform validate_:**
 * To reformat your code and run some basic validations.<br>
 <img src = "images/terraform validate.png">
+
 **Step 3: _terraform plan_:**
 * The terraform plan command creates an execution plan, which lets you preview the changes that Terraform plans to make to your infrastructure.<br>
 <img src = "images/terraform plan.png">
+
 **Step 4: _terraform apply_** 
 * Deploy resources to your AWS console.
 <img src = "images/terraform apply.png"><br>
