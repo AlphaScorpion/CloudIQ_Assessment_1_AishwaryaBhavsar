@@ -1,7 +1,7 @@
 # CloudIQ_Assessment_1_AishwaryaBhavsar
 1. Write an exercise in Terraform to create the below resources in AWS.
 
-* **<h1>* Project Structure** </h1><br>
+<h1>Project Structure</h1><br>
 **VPC Components**<br>
 **1. Create VPC:** A VPC named CloudIQ-Sample-VPC has been created with CIDR range 172.0.0.0/16<br>
 **2. Private Subnets:** 2 private subnets are created.<br>
