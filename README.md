@@ -4,6 +4,9 @@
 <h1>Project Structure</h1><br>
 <img src = "images/tree.png"><br>
 
+<h1>Graph Visualisation</h1><br>
+<img src = "images/graph1.png"><br>
+
 
 <h1>VPC Components</h1><br>
 
